@@ -1,0 +1,3 @@
+dataset=PROTEINS    client=5,10 hid_dim=64  lr=0.001
+dataset=NCI1    client=10,20,30 hid_dim=64  lr=0.01
+dataset=Mutagenicity    client=10,20,30,40  hid_dim=64 lr=0.01
